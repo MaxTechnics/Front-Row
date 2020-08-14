@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pfm_description</key>
+	<string>Front Row Preferences</string>
+	<key>pfm_domain</key>
+	<string>com.apple.frontrow</string>
+	<key>pfm_name</key>
+	<string>Front Row</string>
+	<key>pfm_subkeys</key>
+	<array>
+		<dict>
+			<key>pfm_default</key>
+			<false/>
+			<key>pfm_description</key>
+			<string>Set to true if you want to disable activation of Front Row</string>
+			<key>pfm_name</key>
+			<string>PreventActivation</string>
+			<key>pfm_targets</key>
+			<array>
+				<string>user</string>
+				<string>user-managed</string>
+			</array>
+			<key>pfm_title</key>
+			<string>Disable Launch</string>
+			<key>pfm_type</key>
+			<string>boolean</string>
+		</dict>
+	</array>
+	<key>pfm_title</key>
+	<string>Front Row</string>
+	<key>pfm_version</key>
+	<real>0.01</real>
+</dict>
+</plist>

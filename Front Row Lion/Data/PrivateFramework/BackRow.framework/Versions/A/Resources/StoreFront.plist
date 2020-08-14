@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict> 
+  <key>store-fronts</key>
+  <dict>
+	<key>United States</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143441</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_us</string>
+		<string>es_es</string>
+	  </array>
+	</dict>
+	
+	<key>France</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143442</string>
+	  <key>languages</key>
+	  <array>
+		<string>fr_fr</string>
+	  </array>
+	</dict>
+
+	<key>Deutschland</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143443</string>
+	  <key>languages</key>
+	  <array>
+		<string>de_de</string>
+	  </array>
+	</dict>
+
+	<key>United Kingdom</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143444</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Österreich</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143445</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Belgique</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143446</string>
+	  <key>languages</key>
+	  <array>
+		<string>fr_fr</string>
+	  </array>
+	</dict>
+
+	<key>Finland</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143447</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Greece</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143448</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Ireland</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143449</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Italia</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143450</string>
+	  <key>languages</key>
+	  <array>
+		<string>it_it</string>
+	  </array>
+	</dict>
+
+	<key>Luxembourg</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143451</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Nederland</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143452</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Portugal</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143453</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>España</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143454</string>
+	  <key>languages</key>
+	  <array>
+		<string>es_es</string>
+	  </array>
+	</dict>
+
+	<key>Canada</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143455</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_ca</string>
+		<string>fr_ca</string>
+	  </array>
+	</dict>
+
+	<key>Sweden</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143456</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Norway</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143457</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Denmark</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143458</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Schweiz</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143459</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>Australia</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143460</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>New Zealand</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143461</string>
+	  <key>languages</key>
+	  <array>
+		<string>en_gb</string>
+	  </array>
+	</dict>
+
+	<key>日本</key>
+	<dict>
+	  <key>store-front</key>
+	  <string>143462</string>
+	  <key>languages</key>
+	  <array>
+		<string>ja_jp</string>
+	  </array>
+	</dict>
+
+  </dict>
+
+  <key>languages</key>
+  <dict>
+	<key>en_us</key>
+	<string>1</string>
+	<key>en_gb</key>
+	<string>2</string>
+	<key>fr_fr</key>
+	<string>3</string>
+	<key>de_de</key>
+	<string>4</string>
+	<key>fr_ca</key>
+	<string>5</string>
+	<key>en_ca</key>
+	<string>6</string>
+	<key>it_it</key>
+	<string>7</string>
+	<key>es_es</key>
+	<string>8</string>
+	<key>ja_jp</key>
+	<string>9</string>
+	<key>nl_nl</key>
+	<string>10</string>
+  </dict>
+</dict>
+</plist>	
+

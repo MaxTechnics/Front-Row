@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SortPrefixes</key>
+	<array>
+		<string>il </string>
+		<string>lo </string>
+		<string>la </string>
+		<string>i </string>
+		<string>gli </string>
+		<string>le </string>
+		<string>uno </string>
+		<string>una </string>
+		<string>un </string>
+		<string>un' </string>
+	</array>
+</dict>
+</plist>

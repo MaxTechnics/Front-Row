@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_LOCALIZABLE_</key>
+	<dict>
+		<key>MediaRatings</key>
+		<dict>
+			<key>Explicit</key>
+			<string>Explicit.png</string>
+			<key>G</key>
+			<string>Rated_G.png</string>
+			<key>Not yet rated</key>
+			<string>Rated_NOTRATED.png</string>
+			<key>PG</key>
+			<string>Rated_PG.png</string>
+			<key>PG-13</key>
+			<string>Rated_PG13.png</string>
+			<key>R</key>
+			<string>Rated_R.png</string>
+			<key>TV-14</key>
+			<string>TVRatings_TV14.png</string>
+			<key>TV-G</key>
+			<string>TVRatings_TVG.png</string>
+			<key>TV-PG</key>
+			<string>TVRatings_TVPG.png</string>
+			<key>TV-Y</key>
+			<string>TVRatings_TVY.png</string>
+			<key>TV-Y7</key>
+			<string>TVRatings_TVY7.png</string>
+			<key>TV-Y7FV</key>
+			<string>TVRatings_TVY7FV.png</string>
+			<key>UNRATED</key>
+			<string>Rated_UNRATED.png</string>
+		</dict>
+		<key>MediaTypeImages</key>
+		<dict>
+			<key>Audio Book</key>
+			<string>AudioBook.png</string>
+			<key>Movie</key>
+			<string>Movies.png</string>
+			<key>Movie Preview</key>
+			<string>Movies.png</string>
+			<key>Movie Trailer</key>
+			<string>Movies.png</string>
+			<key>Music Video</key>
+			<string>Music.png</string>
+			<key>Music Video Preview</key>
+			<string>Music.png</string>
+			<key>Podcast</key>
+			<string>Podcast.png</string>
+			<key>Song</key>
+			<string>Music.png</string>
+			<key>Song Preview</key>
+			<string>Music.png</string>
+			<key>TV Show</key>
+			<string>TVShow.png</string>
+			<key>TV Show Preview</key>
+			<string>TVShow.png</string>
+			<key>audio stream type</key>
+			<string>Music.png</string>
+		</dict>
+		<key>MovieTrailersURL</key>
+		<dict>
+			<key>480i</key>
+			<string>http://www.apple.com/trailers/home/xml/current.xml</string>
+			<key>720p</key>
+			<string>http://www.apple.com/trailers/home/xml/current_720p.xml</string>
+		</dict>
+		<key>StarRatings</key>
+		<dict>
+			<key>WS0.0</key>
+			<string>WhiteStars_0.png</string>
+			<key>WS0.5</key>
+			<string>WhiteStars_0_5.png</string>
+			<key>WS1.0</key>
+			<string>WhiteStars_1.png</string>
+			<key>WS1.5</key>
+			<string>WhiteStars_1_5.png</string>
+			<key>WS2.0</key>
+			<string>WhiteStars_2.png</string>
+			<key>WS2.5</key>
+			<string>WhiteStars_2_5.png</string>
+			<key>WS3.0</key>
+			<string>WhiteStars_3.png</string>
+			<key>WS3.5</key>
+			<string>WhiteStars_3_5.png</string>
+			<key>WS4.0</key>
+			<string>WhiteStars_4.png</string>
+			<key>WS4.5</key>
+			<string>WhiteStars_4_5.png</string>
+			<key>WS5.0</key>
+			<string>WhiteStars_5.png</string>
+			<key>YT0.0</key>
+			<string>stars0.png</string>
+			<key>YT1.0</key>
+			<string>stars1.png</string>
+			<key>YT1.5</key>
+			<string>stars1_5.png</string>
+			<key>YT2.0</key>
+			<string>stars2.png</string>
+			<key>YT2.5</key>
+			<string>stars2_5.png</string>
+			<key>YT3.0</key>
+			<string>stars3.png</string>
+			<key>YT3.5</key>
+			<string>stars3_5.png</string>
+			<key>YT4.0</key>
+			<string>stars4.png</string>
+			<key>YT4.5</key>
+			<string>stars4_5.png</string>
+			<key>YT5.0</key>
+			<string>stars5.png</string>
+		</dict>
+		<key>iTunesMusicStore</key>
+		<dict>
+			<key>key</key>
+			<string>itunes-presents-directory-url</string>
+			<key>url</key>
+			<string>http://phobos.apple.com/storeBag.xml.gz</string>
+			<key>userAgent</key>
+			<string>AppleTV/1.1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

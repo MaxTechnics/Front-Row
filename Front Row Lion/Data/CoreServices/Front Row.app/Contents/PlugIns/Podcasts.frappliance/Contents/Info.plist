@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BRApplianceBlurredIconPath</key>
+	<string>BlurredPodcastIcon.png</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Podcasts</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.frontrow.appliance.podcast</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.9</string>
+	<key>CFBundleSignature</key>
+	<string>fnrw</string>
+	<key>CFBundleVersion</key>
+	<string>2.2.9</string>
+	<key>FRApplianceDataSourceType</key>
+	<string>All</string>
+	<key>FRApplianceIconHorizontalOffset</key>
+	<real>0.066400000000000001</real>
+	<key>FRApplianceIconKerningFactor</key>
+	<real>0.0</real>
+	<key>FRApplianceIconReflectionOffset</key>
+	<real>-0.22</real>
+	<key>FRAppliancePreferedOrderValue</key>
+	<real>4</real>
+	<key>FRApplianceSupportedMediaTypes</key>
+	<array>
+		<string>Podcast</string>
+	</array>
+	<key>FRRemoteAppliance</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>RUIPodcastAppliance</string>
+</dict>
+</plist>

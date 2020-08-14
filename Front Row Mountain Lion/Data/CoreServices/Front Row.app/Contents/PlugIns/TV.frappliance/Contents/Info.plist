@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BRApplianceBlurredIconPath</key>
+	<string>BlurredTVIcon.png</string>
+	<key>BRApplianceBlurredIconReflectionPath</key>
+	<string>BlurredTVIconReflection.png</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>TV</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.frontrow.appliance.tv</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.9</string>
+	<key>CFBundleSignature</key>
+	<string>fnrw</string>
+	<key>CFBundleVersion</key>
+	<string>2.2.9</string>
+	<key>FRApplianceDataSourceType</key>
+	<string>All</string>
+	<key>FRApplianceIconHorizontalOffset</key>
+	<real>0.056599999999999998</real>
+	<key>FRApplianceIconKerningFactor</key>
+	<real>0.0</real>
+	<key>FRApplianceIconReflectionOffset</key>
+	<real>-0.12</real>
+	<key>FRApplianceIconReflectionPath</key>
+	<string>TVIconReflection.png</string>
+	<key>FRAppliancePreferedOrderValue</key>
+	<real>1</real>
+	<key>FRApplianceSupportedMediaTypes</key>
+	<array>
+		<string>TV Show</string>
+		<string>TV Show Preview</string>
+	</array>
+	<key>FRRemoteAppliance</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>RUITVAppliance</string>
+</dict>
+</plist>

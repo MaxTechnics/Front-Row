@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+	<key>143441</key> <!-- United states -->
+	<dict>
+	  <key>480i</key>
+	  <string>http://www.apple.com/trailers/home/xml/current.xml</string>
+	  <key>720p</key>
+	  <string>http://www.apple.com/trailers/home/xml/current_720p.xml</string>
+	</dict>
+	<key>143444</key> <!-- United kingdom -->
+	<dict>
+	  <key>480i</key>
+	  <string>http://www.apple.com/trailers/home/xml/current.xml</string>
+	  <key>720p</key>
+	  <string>http://www.apple.com/trailers/home/xml/current_720p.xml</string>
+	</dict>
+	<key>143462</key> <!-- Japan -->
+	<dict>
+	  <key>480i</key>
+	  <string>http://www.apple.com/trailers/home/xml/current.xml</string>
+	  <key>720p</key>
+	  <string>http://www.apple.com/trailers/home/xml/current_720p.xml</string>
+	</dict>
+  </dict>
+</plist>
