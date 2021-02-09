@@ -14,3 +14,8 @@ On OS X Lion, Front Row works almost as usual. Though it might not find music in
 
 ### Mountain Lion
 On OS X Mountain Lion, all IR Remote functionality has been lost. I haven't been able to find a suitable fix yet. It also wouldn't launch without pressing escape after opening. This is the AppleScript you find around the webs. It has been compiled with the Front Row icon to make it function as normal.
+
+## Like it?
+Consider supporting me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A33KOGW)
